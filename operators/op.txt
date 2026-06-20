@@ -1,0 +1,62 @@
+# programming needs some symbols to do operators
+
+symbols ---> operators
+
+operators:perform the operations between the operators
+ 1.arithmetic operators
+ addition --> +
+ substraction ---> -
+ divition ---> / 
+
+ alaways returns the  float value
+
+ floot division ---> //
+ round
+
+
+
+ output:3
+
+ modular --> %
+ returns --> reminder
+ example :
+ print(10//3)
+output:3
+
+
+ power-->
+ example : 2**3----> 8 
+
+ # assignment operators
+
+ eqaul = -->assigns a value 
+ +=
+ -=
+
+
+ total = total  +  1
+ total +=1
+
+
+#comparison & relational  operators:
+to compare the and return boolen values
+
+greater >
+smaller then <
+Equality == 
+greater then or equall >=
+less then or equal <=
+not equal !=
+
+
+logical operators?
+1. and --> & (when both of the conditions are true )
+2. or --> |,` (when any one is true)
+3. not --> ~ (oppoiste results)
+
+
+
+operators  | name
+&             Bitwise
+
+
